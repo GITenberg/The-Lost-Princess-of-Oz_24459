@@ -1,0 +1,63 @@
+_repo: The-Lost-Princess-of-Oz_24459
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Neill, John R. (John Rea)
+    alias: Neill, John Rea
+    birthdate: 1877
+    deathdate: 1943
+    gutenberg_agent_id: '26521'
+    url: http://www.gutenberg.org/2009/agents/26521
+    wikipedia: http://en.wikipedia.org/wiki/John_R._Neill
+covers:
+- cover_type: archival
+  image_path: 24459-h/images/i_cover.png
+creator:
+  author:
+    agent_name: Baum, L. Frank (Lyman Frank)
+    aliases:
+    - Van Dyne, Edith
+    - Baum, Lyman Frank
+    - Bancroft, Laura
+    - Fitzgerald, Capt. Hugh
+    - Akers, Floyd
+    - Cooke, John Estes
+    - Metcalf, Suzanne
+    - Fitzgerald, Hugh
+    birthdate: 1856
+    deathdate: 1919
+    gutenberg_agent_id: '42'
+    url: http://www.gutenberg.org/2009/agents/42
+    wikipedia: http://en.wikipedia.org/wiki/L._Frank_Baum
+description: You expect Button-Bright to get lost, but not Ozma! As soon as it is
+  discovered that not only is the ruler of Oz lost but so are all of the kingdom's
+  important magical instruments, The Wizard of Oz And Glenda the Good Witch spring
+  into action. Search parties are sent to all four countries of Oz to find her or
+  any clues to where she might be. Can Dorothy, the Wizard, or Glenda find Ozma or
+  is she gone forever?
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2008-01-30'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24459'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Household employees -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+- !lcsh 'Wizard of Oz (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Princesses -- Juvenile drama'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Gale, Dorothy (Fictitious character) -- Juvenile fiction'
+- !lcsh 'Magicians -- Juvenile fiction'
+- !lcsh 'Theft -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Oz (Imaginary place) -- Juvenile fiction'
+- !lcsh 'Animals, Mythical -- Juvenile fiction'
+- !lcsh 'Good and evil -- Juvenile fiction'
+- !lcsh 'Princess Ozma (Fictitious character) -- Juvenile fiction'
+title: The Lost Princess of Oz
+url: http://www.gutenberg.org/ebooks/24459
